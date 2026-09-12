@@ -11,11 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Repository\IRepo\" />
-    <Folder Include="Repository\Repo\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.19" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.19" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.19">
